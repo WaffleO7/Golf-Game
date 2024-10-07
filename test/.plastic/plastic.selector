@@ -1,0 +1,4 @@
+repository "test@WaffleO7@cloud"
+  path "/"
+    br "/main"
+    co "/main"
